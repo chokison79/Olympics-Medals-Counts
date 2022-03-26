@@ -2,10 +2,11 @@ Olympic Medals
 
 The project looked at the performance of countries in the Olympic Games across time. A full project description is in "Olympic Medals (1896-2014).pdf", with the project report in "Olympic Medals - report.pdf"
 
-Datasets used were: 
-Primary: ‘Olympic Sports and Medals 1896 – 2014’: https://www.kaggle.com/the-guardian/olympic-games
-Secondary: Host cities and countries, https://www.kaggle.com/piterfm/olympic-games-hosts
-Secondary: Country names and IOC codes
+Datasets used were:
+
+1. Primary: ‘Olympic Sports and Medals 1896 – 2014’: https://www.kaggle.com/the-guardian/olympic-games
+2. Secondary: Host cities and countries, https://www.kaggle.com/piterfm/olympic-games-hosts
+3. Secondary: Country names and IOC codes
 
 We analysed three questions, in summary:
 
